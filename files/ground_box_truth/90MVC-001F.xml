@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>face_db_selection</folder>
+	<filename>90MVC-001F</filename>
+	<path>/home/celia/Code/deep_landmarking/data_pattern_ears/lubliana_db/face_db_selection/90MVC-001F.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>96</width>
+		<height>96</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>39</ymin>
+			<xmax>43</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>
